@@ -35,10 +35,10 @@
 .modalW {
     width: 663px;
     height: 688px;
-    display: flex;
     flex-direction: column;
     margin: auto;
     padding: 50px 0 20px 0;
+    display: none;
 }
 
 .btn {
@@ -57,7 +57,6 @@
     margin-bottom: 16px;
     cursor: pointer;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5);
-    display: none;
 }
 
 .picture {
